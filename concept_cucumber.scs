@@ -1,8 +1,8 @@
 sc_node_not_relation -> concept_cucumber;;
 
 concept_cucumber => nrel_main_idtf:
-[помидор] (* <- lang_ru;; *);
-[tomato] (* <- lang_en;; *);;
+[огурец] (* <- lang_ru;; *);
+[cucumber] (* <- lang_en;; *);;
 concept_cucumber <- concept_ingridient;;
 concept_cucumber<- rrel_key_sc_element: ...
 (*

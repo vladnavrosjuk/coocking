@@ -29,6 +29,16 @@ concept_tomato => nrel_kkal : 20_kkal
 
 <- concept_kkal;;
 *);;
+concept_tomato => nrel_price : 100_rub
+(*
+=> nrel_main_idtf:
+[100 рублей]
+(*
+<- lang_ru;;
+*);;
+
+
+*);;
 concept_tomato => nrel_storage_time: 1_moth
 
 (*
